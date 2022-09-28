@@ -1,0 +1,4 @@
+GuiHandle = STARSHIP_GUI(url='https://staging.starshipcloud.com/',
+username='rbac.01.adm@gmail.com', password='NbvAut@123 ',roleName='', 
+idpDomainName="cisco.com", accountIdOrName='',
+accountRole='Account Administrator')
